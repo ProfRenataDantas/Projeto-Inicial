@@ -2,4 +2,4 @@
 # Atividade Robotica Educacional
 # Projeto Autoral Iniciando na Programação 
 # Recurso Scratch
-# Tema utulizado valorização e pertencimento 
+# Tema atulizado valorização e pertencimento 
